@@ -3,7 +3,7 @@
 ### Task
 - Vision
 
-### Contributors
+### Collaborators
 - Pilgu, Kang([ujos89](https://github.com/ujos89))
 - 
 
