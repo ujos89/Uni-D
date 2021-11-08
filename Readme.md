@@ -1,7 +1,7 @@
 ## Uni-D(Union of Developing Students) Datatrack
 
 ### Task
-- Image Classification
+- Image Hierarchical Classification (Korean Food Image)
 
 ### Contributors
 - Pilgu, Kang([ujos89](https://github.com/ujos89))
